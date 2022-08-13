@@ -1,0 +1,8 @@
+HELP.md
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.gradle
+build/
