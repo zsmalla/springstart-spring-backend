@@ -1,6 +1,6 @@
 # springstart-spring-backend
 
----
+
 ![image](https://user-images.githubusercontent.com/72483874/184873795-93d7b992-68f4-4a1a-9e62-4aa40c08b9d7.png)
 ![image](https://user-images.githubusercontent.com/72483874/184874430-e20af51a-7feb-48e0-9db8-3330ae208216.png)
 ![image](https://user-images.githubusercontent.com/72483874/184874083-8d4874cb-9094-436f-b6e9-d0a6cac423a7.png)
@@ -17,7 +17,7 @@
 > - 테스트 케이스 작성
 ## 프로젝트 기능 설명 
 
----
+
 ### [회원 관리 기능]
 1. 회원 가입 <br>
     회원가입 폼에 기입된 정보를 H2 데이터베이스에 저장하는 기능
@@ -27,7 +27,7 @@
 
 ## 소스코드 설명
 
----
+
 ### [domain]
 - Member
     - 회원 도메인
@@ -70,6 +70,6 @@
 
 ## 정보
 
----
 > 본 프로젝트는 inflearn에서 제공되는 **김영한의 스프링 입문 - 코드르 배우는 스프링 부트, 웹 MVC, 
 > DB 접근 기술** 강의를 따라하며 이해를 돕고자 정리한 프로젝트입니다.
+
